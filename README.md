@@ -8,6 +8,16 @@ This project demonstrates the implementation of KMeans clustering on customer da
 - Supports feature scaling using `StandardScaler`.
 - Provides insights into clusters using inertia scores and cross-tabulation.
 - Includes visualizations for the Elbow Method and cluster distributions.
+- 
+## Dataset
+This project uses the `Mall_Customers.csv` dataset, which contains customer data with the following features:
+- `CustomerID`: Unique identifier for each customer.
+- `Gender`: The gender of the customer (Male/Female).
+- `Age`: Age of the customer.
+- `Annual Income (k$)`: Annual income of the customer in thousands of dollars.
+- `Spending Score (1-100)`: A score assigned based on the customer's spending habits.
+
+You can find the dataset [here](data/Mall_Customers.csv).
 
 ## Installation
 1. Clone the repository:
