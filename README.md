@@ -17,7 +17,7 @@ This project uses the `Mall_Customers.csv` dataset, which contains customer data
 - `Annual Income (k$)`: Annual income of the customer in thousands of dollars.
 - `Spending Score (1-100)`: A score assigned based on the customer's spending habits.
 
-You can find the dataset [here](data/Mall_Customers.csv).
+You can find the dataset [here](Mall_Customers.csv).
 
 ## Installation
 1. Clone the repository:
