@@ -8,7 +8,7 @@ This project demonstrates the implementation of KMeans clustering on customer da
 - Supports feature scaling using `StandardScaler`.
 - Provides insights into clusters using inertia scores and cross-tabulation.
 - Includes visualizations for the Elbow Method and cluster distributions.
-- 
+  
 ## Dataset
 This project uses the `Mall_Customers.csv` dataset, which contains customer data with the following features:
 - `CustomerID`: Unique identifier for each customer.
